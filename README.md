@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dinar1306&theme=" alt="Dinar1306" /></a> </p>
 -->
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 🤝 I’m looking for help with **gaining practical and useful experience**
-- 🌱 I’m currently learning **Spring and Docker**
-
-- 📫 How to reach me **mdinar@mail.ru**
-- 👨‍💻 All of my projects are available at **https://dinar1306.github.io/MDF-Lab/**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1t6Awt05MyK3-LcqmkSpeB0n5NGuGQmWD/view?usp=sharing**
+- 👯 I’m looking to collaborate on <b>Open Source projects</b><br/>
+- 🤝 I’m looking for help with **gaining practical and useful experience**<br/>
+- 🌱 I’m currently learning **Spring and Docker**<br/>
+- 📫 How to reach me **mdinar@mail.ru**<br/>
+- 👨‍💻 All of my projects are available at **https://dinar1306.github.io/MDF-Lab/**<br/>
+- 📄 Know about my experiences **https://drive.google.com/file/d/1t6Awt05MyK3-LcqmkSpeB0n5NGuGQmWD/view?usp=sharing**<br/>
 
 <div> <a href="https://github.com/Dinar1306" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:mdinar@mail.ru"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
