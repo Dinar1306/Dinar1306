@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dinar1306&theme=" alt="Dinar1306" /></a> </p>
 -->
 - 👯 I’m looking to collaborate on <b>Open Source projects</b><br/>
-- 🤝 I’m looking for help with **gaining practical and useful experience**<br/>
-- 🌱 I’m currently learning **Spring and Docker**<br/>
+- 🤝 I’m looking for help with <b>gaining practical and useful experience</b><br/>
+- 🌱 I’m currently learning <b>Spring and Docker</b><br/>
 - 📫 How to reach me <a href = "mailto:mdinar@mail.ru">mdinar@mail.ru</a><br/>
-- 👨‍💻 All of my projects are available at [https://dinar1306.github.io/MDF-Lab/](https://dinar1306.github.io/MDF-Lab/)<br/>
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1t6Awt05MyK3-LcqmkSpeB0n5NGuGQmWD/view?usp=sharing) or ask [my bot](https://t.me/EmploymentSecretaryBot) <br/>
+- 👨‍💻 All of my projects are available at https://dinar1306.github.io/MDF-Lab/<br/>
+- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1t6Awt05MyK3-LcqmkSpeB0n5NGuGQmWD/view?usp=sharing" target="_blank">resume</a> or ask <a href="https://t.me/EmploymentSecretaryBot" target="_blank">my bot</a><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
