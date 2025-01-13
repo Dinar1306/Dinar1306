@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dinar1306&theme=" alt="Dinar1306" /></a> </p>
 -->
 - 👯 I’m looking to collaborate on <b>Open Source projects</b><br/>
-- 🤝 I’m looking for help with <b>gaining practical and useful experience</b><br/>
+- 🤝 I’m looking for help with <b>gaining practical and useful experience</b> in team programming in Java<br/>
 - 🌱 I’m currently learning <b>Spring and Docker</b><br/>
 - 📫 How to reach me <a href = "mailto:mdinar@mail.ru">mdinar@mail.ru</a><br/>
 - 👨‍💻 All of my projects are available at <a href="https://dinar1306.github.io/MDF-Lab/" target="blank">https://dinar1306.github.io/MDF-Lab/</a><br/>
