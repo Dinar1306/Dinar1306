@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <b>Spring and Docker</b><br/>
 - 📫 How to reach me <a href = "mailto:mdinar@mail.ru">mdinar@mail.ru</a><br/>
 - 👨‍💻 All of my projects are available at <a href="https://dinar1306.github.io/MDF-Lab/" target="blank">https://dinar1306.github.io/MDF-Lab/</a><br/>
-- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1t6Awt05MyK3-LcqmkSpeB0n5NGuGQmWD/view?usp=sharing" target="_blank">resume</a> or ask <a href="https://t.me/EmploymentSecretaryBot" target="_blank">my telegram bot</a><br/>
+- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1t6Awt05MyK3-LcqmkSpeB0n5NGuGQmWD/view?usp=sharing" target="_blank">resume</a> or ask my <a href="https://t.me/EmploymentSecretaryBot" target="_blank">telegram bot</a><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><span stile="vertical-align: middle">
